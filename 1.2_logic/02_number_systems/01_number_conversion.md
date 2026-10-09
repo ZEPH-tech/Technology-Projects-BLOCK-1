@@ -1,7 +1,7 @@
 ## Conversion from One Base to Another
 
 1. **Convert the decimal number 156 to:**
-   - Binary: `10011100`
+   - Binary: `10011100 (2)`
    - Octal: `234`
    - Hexadecimal: `9C`
 
