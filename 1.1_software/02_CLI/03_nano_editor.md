@@ -24,3 +24,14 @@ Learn to create and edit text files from the CLI.
 
 **Commit and push the changes**
 
+### ✅ Completion notes
+
+`practice/notes.txt` was created/edited and now contains:
+
+```text
+This is my first Raspberry Pi CLI note!
+- SUBHAM KC
+```
+
+`cat notes.txt` prints the line above without needing `nano`.
+

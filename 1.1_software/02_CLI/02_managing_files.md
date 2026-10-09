@@ -33,3 +33,15 @@ Practise working with files and folders.
    rm file2.txt
    ```
 
+### ✅ Completion notes
+
+All commands were run inside `1.1_software/02_CLI/`. Final contents of the `practice` folder:
+
+```text
+practice/
+├── notes.txt
+└── notes_backup.txt
+```
+
+`file2.txt` was created and then deleted with `rm`, so it no longer exists.
+
